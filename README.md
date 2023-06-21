@@ -2,7 +2,7 @@
 <p align= "center"> <kbd> <img  src="https://cdn.discordapp.com/attachments/1050492593114456124/1051490320921145384/786713106658492416.webp"width="400"> </kbd><br><br>
 
 <p></p>
-<p> if you need help you can write on telegram. Click to write (https://t.me/crealdevelopment) </p>
+<p> if you need help you can write on telegram. Click to write (https://t.me/alex14324) </p>
 
 
 ## Features:
